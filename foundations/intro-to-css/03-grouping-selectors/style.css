@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.old,
+.banana{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+
+}
+
+.old{
+    color: #f3f3f3;
+    background-color: #00000f;
+}
+
+.banana{
+    color: #00000f;
+    background-color: #ff0;
+}
